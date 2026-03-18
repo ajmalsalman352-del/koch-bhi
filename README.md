@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://img.shields.io/badge/🔥%20WELCOME%20TO-ARIF%20PROJECT%20BOT-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=00FF00"/>
+<img src="https://img.shields.io/badge/🔥%20WELCOME%20TO-chand%20PROJECT%20BOT-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=00FF00"/>
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=FF0000&background=00FF00&center=true&vCenter=true&width=600&height=70&lines=❤️+HELLO+FRIENDS+WELCOME+❤️;💚+ARIF+PROJECT+BOT+💚;💛+POWERED+BY+MR+ARIF+BABU+💛;💙+THANK+YOU+FOR+USING+OUR+BOT+💙"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=FF0000&background=00FF00&center=true&vCenter=true&width=600&height=70&lines=❤️+HELLO+FRIENDS+WELCOME+❤️;💚+chand+PROJECT+BOT+💚;💛+POWERED+BY+MR+chand+BABU+💛;💙+THANK+YOU+FOR+USING+OUR+BOT+💙"/>
 </p>
 
 ---
@@ -93,13 +93,13 @@
 ---
 
 <p align="center">
-<b>❤️ ARIF PROJECT BOT - YOUR SMART ASSISTANT 💚</b>
+<b>❤️ chand PROJECT BOT - YOUR SMART ASSISTANT 💚</b>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/©%202025-ARIF%20PROJECT%20BOT-FF0000?style=for-the-badge&labelColor=00FF00"/>
+<img src="https://img.shields.io/badge/©%202025-chand%20PROJECT%20BOT-FF0000?style=for-the-badge&labelColor=00FF00"/>
 </p>
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/arifprojectbot/count.svg"/>
+<img src="https://profile-counter.glitch.me/chandprojectbot/count.svg"/>
 </p>
